@@ -1,0 +1,7 @@
+#These are the properties of the game.
+#Fri May 08 13:57:10 CEST 2020
+playerDamage=25
+Money=50
+FinalBossDamage=20
+FinalBossHealth=100
+playerHealth=50
